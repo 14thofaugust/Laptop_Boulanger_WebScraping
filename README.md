@@ -1,3 +1,3 @@
 # Laptop-pricing-study
 
-This project aims at using Python web scrapping tools to illustrate how it works.
+This project aims at using Python web scraping tools to illustrate how does it work.
